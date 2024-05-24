@@ -2,9 +2,9 @@
 
 Simple photo-sharing social media platform
 
-### [Live Demo](https://momentoapp.emuel.me)
 
----
+
+
 
 ## 📚 About
 
@@ -57,7 +57,7 @@ Before you proceed with the installation, make sure you have the following prere
 
 ### Installing and Running the Project
 
-1. Clone the repository using `git clone https://github.com/emuel-vassallo/momento`
+1. Clone the repository using `git clone https:https://github.com/Valmiki-kumar/Valmiki-kumar-social-media-project`
 2. Move the project files to the appropriate directory:
    - Windows: Extract the files to `C:\xampp\htdocs\momento`.
    - Linux: Extract the files to `/opt/lampp/htdocs/momento`.
@@ -105,7 +105,7 @@ By following these steps, you will be able to run the Momento project on your lo
 ### Search Functionality
 
 - Instantly find users based on their usernames and display names with live search results.
-- Powered by [MiniSearch](https://lucaong.github.io/minisearch/), enabling efficient and accurate search functionality within th🙏e app.
+
 
 ### Copy Post Link
 
@@ -135,7 +135,4 @@ By following these steps, you will be able to run the Momento project on your lo
 - [ ] Reorder posts
 - [ ] Schedule posts
 
-## 🙏 Acknowledgements
 
-- [JustValidate](https://just-validate.dev/): Enables smooth form validation and accurate user input in forms.
-- [Unsplash](https://unsplash.com/): Used for providing high quality and royalty-free images.
